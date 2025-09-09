@@ -125,4 +125,3 @@ This project represents my exploration into retail analytics and inventory optim
 
 ---
 
-*This project demonstrates practical application of data science techniques to real-world business challenges. It showcases data cleaning, exploratory analysis, statistical modeling, and business insight generation - core skills for any aspiring data analyst.*
