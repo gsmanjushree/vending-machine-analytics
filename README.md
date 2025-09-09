@@ -1,12 +1,12 @@
 # 🏪 Smart Vending Insights: A Data Analytics Journey
 
-## 💡 Personal Motivation
+## Personal Motivation
 
 As someone fascinated by the intersection of consumer behavior and data science, I've always wondered about the hidden patterns in everyday transactions. Vending machines, those ubiquitous dispensers of quick snacks and drinks, seemed like the perfect microcosm to explore. What drives people to choose Soda over Water at 3 PM? Do rainy days really affect snack sales? Can we predict when a machine will run out of Chocolate bars?
 
 This project emerged from my curiosity about these seemingly simple but surprisingly complex business operations. By analyzing three months of vending machine data, I aimed to uncover actionable insights that could help optimize inventory, maximize revenue, and better serve customers.
 
-## 📊 Dataset Overview
+##  Dataset Overview
 
 **Source**: Simulated vending machine sales data  
 **Timeframe**: 3 months (June - September 2025)  
@@ -28,24 +28,24 @@ This project emerged from my curiosity about these seemingly simple but surprisi
 - **Excel**: Pivot table analysis and business reporting
 - **Jupyter Notebook**: Interactive analysis and documentation
 
-## 🔍 Key Findings
+##  Key Findings
 
-### 📈 Revenue Insights
+###  Revenue Insights
 - **Water emerges as the revenue champion**, generating the highest total sales despite its lower price point
 - **Machine performance varies significantly**, with some machines generating 25%+ more revenue than others
 - **Peak sales occur during traditional break hours** (around 2-3 PM), suggesting strong correlation with work/study schedules
 
-### ⏰ Demand Patterns
+### Demand Patterns
 - **Clear hourly patterns exist**, with sales clustering around meal times and afternoon breaks
 - **Weekday performance differs from weekends**, indicating location-specific customer behavior
 - **Weather shows measurable impact** on product selection, though temperature effects are more subtle than expected
 
-### 📦 Inventory Optimization
+###  Inventory Optimization
 - **Stock-out risks identified** for high-velocity items during peak periods
 - **Safety stock calculations reveal** optimal buffer levels for different machine-product combinations
 - **Reorder point analysis suggests** proactive restocking can prevent lost sales opportunities
 
-## 🎯 Actionable Recommendations
+##  Actionable Recommendations
 
 ### Operational Excellence
 - **Prioritize Water inventory** across all machines given its consistent high demand
@@ -83,7 +83,7 @@ pip install pandas numpy matplotlib seaborn openpyxl jupyter
 2. **Explore** the pivot tables on different worksheets
 3. **Interact** with the data by filtering and sorting
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 smart-vending-insights/
@@ -103,7 +103,7 @@ smart-vending-insights/
 └── README.md                      # This file
 ```
 
-## 🎨 Sample Visualizations
+##  Sample Visualizations
 
 The analysis generates multiple visualization types:
 - **Bar charts** showing product performance rankings
@@ -111,7 +111,7 @@ The analysis generates multiple visualization types:
 - **Heatmaps** revealing hour-by-product sales patterns
 - **Scatter plots** exploring temperature-sales relationships
 
-## 📝 Next Steps & Future Enhancements
+##  Next Steps & Future Enhancements
 
 - **Expand dataset** to include seasonal variations and holiday effects
 - **Incorporate customer demographics** to understand purchasing behavior
@@ -119,7 +119,7 @@ The analysis generates multiple visualization types:
 - **Explore machine learning models** for demand forecasting
 - **Develop real-time dashboard** for operational monitoring
 
-## 🤝 Contributing
+##  Contributing
 
 This project represents my exploration into retail analytics and inventory optimization. If you find interesting patterns or have suggestions for additional analyses, I'd love to hear your thoughts!
 
